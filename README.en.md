@@ -68,6 +68,15 @@ Style: Clean and fresh, whimsical and creative, suitable for teaching display.
 ---
 <Paste teaching content>
 ```
+### 示例效果
+
+| 溯源动机 | 打破幻觉 |
+|----------|----------|
+| ![溯源动机](https://platform-outputs.agnes-ai.space/images/text-to-image/2026/06/243e9aaf6fb6458ca397f84cf42e7b91.png) | ![打破幻觉](https://platform-outputs.agnes-ai.space/images/text-to-image/2026/06/9400a0e82ef04fca97c128492a535c1f.png) |
+
+| 路径执行 | 三重触发器 |
+|----------|------------|
+| ![路径执行](https://platform-outputs.agnes-ai.space/images/text-to-image/2026/06/9b1d10bdc2d347b5bebeda05133eae2b.png) | ![三重触发器](https://platform-outputs.agnes-ai.space/images/text-to-image/2026/06/8a4398e32d09443d8b5df47df0b612a3.png) |
 
 ## Workflow
 

@@ -1,7 +1,5 @@
 # xiaoming-illustration-skill
 
-> 🇨🇳 中文文档 | [English Documentation](README.en.md)
-
 为中文内容生成极简线条正文配图的 AI Agent Skill。适用于文章观点生图、绘本内容生图、知识点拆解生图、教学内容生图。
 
 ## 核心特点
@@ -48,7 +46,7 @@ cp -R xiaoming-illustration-skill/* ~/.trae/skills/xiaoming-illustration-skill/
 用xiaoming-illustration-skill为这个故事生成5张绘本插图
 场景风格：怪诞但清爽，小明是主角。
 ---
-<粘贴故事>
+
 ```
 
 ### 知识点拆解生图
@@ -57,7 +55,7 @@ cp -R xiaoming-illustration-skill/* ~/.trae/skills/xiaoming-illustration-skill/
 用xiaoming-illustration-skill把这个知识点拆解成3张图
 每张图只讲一个核心概念，用小明作为动作主体。
 ---
-<粘贴知识点>
+
 ```
 
 ### 教学内容生图
@@ -66,8 +64,18 @@ cp -R xiaoming-illustration-skill/* ~/.trae/skills/xiaoming-illustration-skill/
 用xiaoming-illustration-skill为这个教学场景生成配图
 风格：简洁清爽、怪诞有创意、适合教学展示。
 ---
-<粘贴教学内容>
+
 ```
+
+### 示例效果
+
+| 溯源动机 | 打破幻觉 |
+|----------|----------|
+| ![溯源动机](https://platform-outputs.agnes-ai.space/images/text-to-image/2026/06/243e9aaf6fb6458ca397f84cf42e7b91.png) | ![打破幻觉](https://platform-outputs.agnes-ai.space/images/text-to-image/2026/06/9400a0e82ef04fca97c128492a535c1f.png) |
+
+| 路径执行 | 三重触发器 |
+|----------|------------|
+| ![路径执行](https://platform-outputs.agnes-ai.space/images/text-to-image/2026/06/9b1d10bdc2d347b5bebeda05133eae2b.png) | ![三重触发器](https://platform-outputs.agnes-ai.space/images/text-to-image/2026/06/8a4398e32d09443d8b5df47df0b612a3.png) |
 
 ## 工作流
 
@@ -81,10 +89,8 @@ cp -R xiaoming-illustration-skill/* ~/.trae/skills/xiaoming-illustration-skill/
 
 ```
 xiaoming-illustration-skill/
-├── SKILL.md              # 主规范文件（中文）
-├── SKILL.en.md           # Main specification (English)
-├── README.md             # 项目说明（中文）
-├── README.en.md          # Project documentation (English)
+├── SKILL.md              # 主规范文件
+├── README.md             # 项目说明
 ├── LICENSE               # 许可证
 └── references/
     ├── xiaoming-ip.md    # 小明IP定义
