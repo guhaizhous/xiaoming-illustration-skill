@@ -37,7 +37,7 @@ cp -R xiaoming-illustration-skill/* ~/.trae/skills/xiaoming-illustration-skill/
 ### 文章观点生图
 
 ```
-用article-illustration为这篇文章生成4张观点配图
+用xiaoming-illustration-skill为这篇文章生成4张观点配图
 ---
 <粘贴文章内容>
 ```
@@ -45,7 +45,7 @@ cp -R xiaoming-illustration-skill/* ~/.trae/skills/xiaoming-illustration-skill/
 ### 绘本内容生图
 
 ```
-用article-illustration为这个故事生成5张绘本插图
+用xiaoming-illustration-skill为这个故事生成5张绘本插图
 场景风格：怪诞但清爽，小明是主角。
 ---
 <粘贴故事>
@@ -63,7 +63,7 @@ cp -R xiaoming-illustration-skill/* ~/.trae/skills/xiaoming-illustration-skill/
 ### 教学内容生图
 
 ```
-用article-illustration为这个教学场景生成配图
+用xiaoming-illustration-skill为这个教学场景生成配图
 风格：简洁清爽、怪诞有创意、适合教学展示。
 ---
 <粘贴教学内容>

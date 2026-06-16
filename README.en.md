@@ -37,7 +37,7 @@ cp -R xiaoming-illustration-skill/* ~/.trae/skills/xiaoming-illustration-skill/
 ### Article Viewpoint Illustrations
 
 ```
-Use article-illustration to generate 4 viewpoint illustrations for this article
+Use xiaoming-illustration-skill to generate 4 viewpoint illustrations for this article
 ---
 <Paste article content>
 ```
@@ -45,7 +45,7 @@ Use article-illustration to generate 4 viewpoint illustrations for this article
 ### Picture Book Illustrations
 
 ```
-Use article-illustration to generate 5 picture book illustrations for this story
+Use xiaoming-illustration-skill to generate 5 picture book illustrations for this story
 Style: Whimsical but clean, Xiao Ming is the protagonist.
 ---
 <Paste story>
@@ -63,7 +63,7 @@ Each illustration focuses on one core concept, with Xiao Ming as the action subj
 ### Teaching Scenario Illustrations
 
 ```
-Use article-illustration to generate illustrations for this teaching scenario
+Use xiaoming-illustration-skill to generate illustrations for this teaching scenario
 Style: Clean and fresh, whimsical and creative, suitable for teaching display.
 ---
 <Paste teaching content>
