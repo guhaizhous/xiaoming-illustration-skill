@@ -120,6 +120,8 @@ xiaoming-illustration-skill/
 - Cola
 - Claude Code
 - Codex
+- hermes 
+- pi
 
 ## 许可证
 
@@ -131,4 +133,4 @@ MIT License - 详见 [LICENSE](LICENSE)
 
 ## 作者
 
-你的名字 / GitHub 用户名
+guhaizhous(谷子熟了)

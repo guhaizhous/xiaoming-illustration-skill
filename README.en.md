@@ -133,4 +133,4 @@ Issues and Pull Requests are welcome!
 
 ## Author
 
-Your Name / GitHub Username
+guhaizhous(谷子熟了)
