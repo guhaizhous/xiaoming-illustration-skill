@@ -70,6 +70,13 @@ Style: Clean and fresh, whimsical and creative, suitable for teaching display.
 ```
 ### 示例效果
 
+学习四步系统：
+
+溯源动机 — 区分"改变"和"焦虑"，学习动机必须具体可操作
+打破幻觉 — 输入≠输出，收藏≠掌握，纠正三个常见认知偏差
+路径执行 — 一次只吃透一件事：拉出来→费曼理解→做成知识卡片
+触发条件 — 不靠意志力靠系统，设计固定/事件/环境三重触发器
+
 | 溯源动机 | 打破幻觉 |
 |----------|----------|
 | ![溯源动机](https://platform-outputs.agnes-ai.space/images/text-to-image/2026/06/243e9aaf6fb6458ca397f84cf42e7b91.png) | ![打破幻觉](https://platform-outputs.agnes-ai.space/images/text-to-image/2026/06/9400a0e82ef04fca97c128492a535c1f.png) |
