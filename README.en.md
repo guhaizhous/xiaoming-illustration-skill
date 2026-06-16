@@ -120,6 +120,8 @@ Trigger conditions — Don't rely on willpower, design fixed/event/environmental
 - Cola
 - Claude Code
 - Codex
+- hermes 
+- pi
 
 ## License
 
